@@ -40,3 +40,10 @@ sudo pacman -S scrot python3-tk python-dev
 ```
 
 ## Running the script
+Running the script is easy:
+```
+python /location/to/file/easyLag.py
+```
+
+## Issues and suggestions
+If there are any issues or you have any suggestions, submit it here so I can be made aware of such.
