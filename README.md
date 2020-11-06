@@ -42,7 +42,7 @@ sudo pacman -S scrot python3-tk python-dev
 ## Running the script
 Running the script is easy:
 ```
-python /location/to/file/easyLag.py
+python3 /location/to/file/easyLag.py
 ```
 
 ## Issues and suggestions
