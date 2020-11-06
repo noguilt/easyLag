@@ -2,10 +2,10 @@
 _A simple python script that just shift clicks between recipes over and over._
 
 ## Table of contents
-* [Required Packages](#required-pkgs)
-* [Running the script](#running)
+* [Required Packages](#required-packages)
+* [Running the script](#running-the-script)
 
-## Required Packages
+## Required packages
 Python is (obviously) required for this script to function, if you need to download the installer then go here: https://www.python.org/downloads/
 
 ### Windows
@@ -38,3 +38,5 @@ sudo dnf install scrot python3-tk python3-dev
 ```
 sudo pacman -S scrot python3-tk python-dev
 ```
+
+## Running the script
