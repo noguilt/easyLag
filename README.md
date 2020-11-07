@@ -2,10 +2,10 @@
 _A simple python script that just shift clicks between recipes over and over._
 
 ## Table of contents
-* [Required Packages](#required-packages)
+* [Installation](#installation)
 * [Running the script](#running-the-script)
 
-## Required packages
+## Installation
 Python is (obviously) required for this script to function, if you need to download the installer then go here: https://www.python.org/downloads/
 
 ### Windows
@@ -25,7 +25,7 @@ On Linux, you need to run python3:
 ```
 python3 -m pip install pyautogui
 ```
-Other packages are required as well:
+Other packages are required as well for Linux users:
 ##### Debian derivatives 
 ```
 sudo apt-get install scrot python3-tk python3-dev
