@@ -13,19 +13,19 @@ Python is (obviously) required for this script to function, if you need to downl
 ### Windows
 On Windows, you can use py.exe to run the latest version of python:
 ```
-py -m pip install pyautogui
+py -m pip install pyautogui colorama
 ```
 
 ### macOS
-On macOS, you need to run python3:
+On macOS, you can use pip3:
 ```
-python3 -m pip install pyautogui
+pip3 install pyautogui colorama
 ```
 
 ### Linux
-On Linux, you need to run python3:
+On Linux, you can use pip3:
 ```
-python3 -m pip install pyautogui
+pip3 install pyautogui colorama
 ```
 Other packages are required as well for Linux users:
 ##### Debian derivatives 
@@ -46,6 +46,7 @@ Running the script is easy:
 ```
 python3 /location/to/file/easyLag.py
 ```
+
 
 ## Issues and suggestions
 If there are any issues or you have any suggestions, submit it here so I can be made aware of such.
