@@ -1,5 +1,5 @@
 # easyLag
-_A simple python script that just shift clicks between recipes over and over._
+__easyLag__ - _A simple python script that just shift clicks between recipes over and over._
 
 Only works on Java Minecraft servers 1.12+
 
