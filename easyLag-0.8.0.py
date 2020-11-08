@@ -24,10 +24,11 @@ time.sleep(5)
 
 pos2 = pyautogui.position()
 print(pos2)
+print(Fore.YELLOW + "Next position in 5 seconds\n" + Style.RESET_ALL)
 
 # Asks user how long to run the process
 while True:
-    value = input("\nHow long would you like to run the script (in seconds)? ")
+    value = input("How long would you like to run the script (in seconds)? ")
     try:
         val = int(value)
         if val < 0:
