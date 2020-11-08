@@ -48,6 +48,7 @@ Running the script is easy:
 python3 /path/to/file/easyLag.py
 ```
 ##### Windows
+On Windows, you can double-click the script, or alternatively use the _py_ command:
 ```
 py \path\to\file\easyLag.py
 ```
