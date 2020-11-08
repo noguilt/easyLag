@@ -7,7 +7,7 @@ from colorama import init, Fore, Back, Style
 init()
 
 # Start screen
-print(Fore.YELLOW + "easyLag " + Style.RESET_ALL + "- probably the easiest way to lag some Minecraft servers with friends")
+print(Fore.YELLOW + "easyLag " + Style.RESET_ALL + "- a stress testing tool for MC servers")
 print(Fore.BLUE + "---------------------------------" + Style.RESET_ALL)
 print(Fore.CYAN + "Github: " + Style.RESET_ALL + "https://github.com/linux-stack/")
 print(Fore.BLUE + "---------------------------------" + Style.RESET_ALL)
