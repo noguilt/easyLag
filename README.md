@@ -1,5 +1,5 @@
 # easyLag
-_A stress testing tool for MC servers, can lower TPS with just a crafting table._
+_A stress testing tool for MC servers, lower TPS with just a crafting table._
 
 Only works on Java Minecraft servers 1.12+
 
