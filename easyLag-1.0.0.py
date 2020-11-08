@@ -46,6 +46,6 @@ print(Fore.GREEN + "Started" + Style.RESET_ALL)
 t_end = time.time() + int(value)
 while time.time() < t_end:
 		pyautogui.keyDown('shift')
-		pyautogui.click(pos1, _pause = 0)
+		pyautogui.click(pos1, _pause = 0) #_pause = 0 added to bypass pyautogui delay
 		pyautogui.click(pos2, _pause = 0)
 		pyautogui.keyUp('shift')
