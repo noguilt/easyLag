@@ -1,5 +1,5 @@
 # easyLag
-_A simple python script that just shift clicks between recipes over and over._
+_A script to be used in server testing, can lower TPS with just a crafting table._
 
 Only works on Java Minecraft servers 1.12+
 
