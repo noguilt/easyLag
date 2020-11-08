@@ -2,8 +2,7 @@
 # @linux-stack on Github, more projects soon to come (hopefully)
 import time
 import pyautogui
-from colorama import init
-from colorama import Fore, Back, Style
+from colorama import init, Fore, Back, Style
 
 init()
 
