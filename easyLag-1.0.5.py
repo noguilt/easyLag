@@ -1,4 +1,4 @@
-# A simple python script that just shift clicks between recipes over and over.
+# A stress testing tool for MC servers, lower TPS with just a crafting table.
 # @linux-stack on Github, more projects soon to come (hopefully)
 import time
 import pyautogui
