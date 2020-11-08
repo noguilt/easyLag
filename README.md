@@ -2,6 +2,7 @@
 _A simple python script that just shift clicks between recipes over and over._
 
 Only works on Java Minecraft servers 1.12+
+
 You could also just make a macro, you know
 
 ## Table of contents
