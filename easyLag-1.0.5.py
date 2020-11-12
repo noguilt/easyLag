@@ -1,5 +1,5 @@
 # A stress testing tool for MC servers, lower TPS with just a crafting table.
-# @aesirgod on Github, more projects soon to come (hopefully)
+# @noguilt on Github, more projects soon to come (hopefully)
 import time
 import pyautogui
 from colorama import init, Fore, Back, Style
@@ -9,7 +9,7 @@ init()
 # Start screen
 print(Fore.YELLOW + "easyLag " + Style.RESET_ALL + "- a stress testing tool for MC servers")
 print(Fore.BLUE + "---------------------------------" + Style.RESET_ALL)
-print(Fore.CYAN + "Github: " + Style.RESET_ALL + "https://github.com/aesirgod")
+print(Fore.CYAN + "Github: " + Style.RESET_ALL + "https://github.com/noguilt")
 print(Fore.BLUE + "---------------------------------" + Style.RESET_ALL)
 print("Mouse position will be recorded twice. Make sure your mouse is over the recipes")
 print("before pressing enter")
