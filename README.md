@@ -56,4 +56,4 @@ py \path\to\file\easyLag.py
 ```
 
 ## Issues and suggestions
-If there are any issues or you have any suggestions, submit it here so I can be made aware of such.
+If there are any issues or you have any suggestions, submit it [here](https://github.com/noguilt/easyLag/issues).
